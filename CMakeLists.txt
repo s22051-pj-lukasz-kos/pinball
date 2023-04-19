@@ -1,10 +1,3 @@
-#cmake_minimum_required(VERSION 3.24)
-#project(pinball)
-#
-#set(CMAKE_CXX_STANDARD 17)
-#
-#add_executable(pinball main.cpp)
-
 cmake_minimum_required(VERSION 3.24)
 project(pinball)
 
